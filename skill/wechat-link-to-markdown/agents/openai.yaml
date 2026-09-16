@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信公众号原文转 Markdown"
+  short_description: "从公众号链接抓取原文，并保存 Markdown 与本地图片"
+  default_prompt: "Use $wechat-link-to-markdown to save this WeChat article as a verified local Markdown document."
